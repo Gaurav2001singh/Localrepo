@@ -1,3 +1,11 @@
-.p{
-   color:red; 
+main{
+    display: flex;
+}
+
+main img{
+    height: 700px;
+}
+main span img{
+    height: 700px;
+    width: 750px;
 }
